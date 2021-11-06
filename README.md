@@ -3,4 +3,4 @@
 * UE4 Slate UI FrameWork
 * Asynchronous loading of uassets & saving
 * Tweaking uasset properties through Plugins
-* Asynchronously spawning Blueprint class assets from Content Browser to Level
+* Spawning Blueprint class assets from Content Browser to Level
